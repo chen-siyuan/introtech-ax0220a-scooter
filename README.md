@@ -1,5 +1,9 @@
 # Introtech AX-0220A Electric Scooter Assembly Instructions & Manual
 
+Please select your respective language below.
+
+Por favor, seleccione su idioma respectivo a continuación.
+
 * [English](#english)
 * [Español](#español)
 

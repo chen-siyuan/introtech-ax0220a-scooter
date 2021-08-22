@@ -1,10 +1,28 @@
-# Introtech AX-0220A Electric Scooter Assembly Instructions
-Welcome to the assembly instructions for the introtech AX-0220A electric scooter.
+# Introtech AX-0220A Electric Scooter Assembly Instructions & Manual
 
+[English](##-english)
+[Español](##-español)
 
-https://user-images.githubusercontent.com/46427716/129056073-8f094cd2-9e8c-4a0a-8032-790ac144eee2.mp4
+## English
 
+Welcome to the instructions & manual page for the Introtech AX-0220A electric scooter. Please check out the instructions video and the manual document below.
 
+### Assembly Manual
 
-https://user-images.githubusercontent.com/46427716/129056245-7eb6f6b8-5f3d-42b5-afb0-b99e7d2c5ece.mp4
+[AX-0220A Assembly Manual.docx](https://github.com/chen-siyuan/introtech-scooter/files/7026526/AX-0220A.Assembly.Manual.docx)
 
+### Assembly Instructions
+
+https://user-images.githubusercontent.com/46427716/130340922-de372862-b3c3-4d61-b41d-69c94157277e.mp4
+
+## Español
+
+Bienvenido a la página de instrucciones y manuales del Introtech AX-0220A scooter eléctrico. Por favor, eche un vistazo al vídeo de instrucciones y al documento del manual a continuación.
+
+### Manual de Montaje
+
+[AX-0220A Manual de Montaje.docx](https://github.com/chen-siyuan/introtech-scooter/files/7026527/AX-0220A.Manual.de.Montaje.docx)
+
+### Instrucciones de Montaje
+
+https://user-images.githubusercontent.com/46427716/130340936-40a32d0b-b97c-4087-9ac2-f3911afb7108.mp4

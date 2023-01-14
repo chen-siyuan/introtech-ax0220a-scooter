@@ -17,7 +17,7 @@ Welcome to the instructions & manual page for the Introtech AX-0220A electric sc
 
 ### Assembly Manual
 
-[AX-0220A Assembly Manual.docx](https://github.com/chen-siyuan/introtech-scooter/files/7026526/AX-0220A.Assembly.Manual.docx)
+[AX-0220A Assembly Manual.docx](https://github.com/chen-siyuan/introtech-scooter/files/10416166/AX-0220A.Assembly.Manual.docx)
 
 ### Assembly Instructions
 
@@ -29,7 +29,7 @@ Bienvenido a la página de instrucciones y manuales del Introtech AX-0220A scoot
 
 ### Manual de Montaje
 
-[AX-0220A Manual de Montaje.docx](https://github.com/chen-siyuan/introtech-scooter/files/7026527/AX-0220A.Manual.de.Montaje.docx)
+[AX-0220A Manual de Montaje.docx](https://github.com/chen-siyuan/introtech-scooter/files/10416168/AX-0220A.Manual.de.Montaje.docx)
 
 ### Instrucciones de Montaje
 
